@@ -15,6 +15,6 @@ SSAC 프로젝트 UDON을 준비하면서 팀원간에 공유하면 좋을 도�
 
 protkg : 병수님(소유자)
 
-BOBODDO : 승철님(멤버)
+BOBODDO : 승철님(소유자)
 
-jungeun0121 : 정은님(멤버)
+jungeun0121 : 정은님(소유자)
